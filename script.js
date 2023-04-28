@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-
-<html>
-  <head>
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-
-  <body>
-    <!-- write the body here -->
-<form id="myForm">
-	<label for="name">Name:</label>
-	<input type="text" id="name" name="name" required>
-
-	<label for="age">Age:</label>
-	<input type="number" id="age" name="age" required>
-
-	<button type="submit" id="btn">Submit</button>
-	
-    <script type="text/javascript" src="./script.js"></script>
-  </body>
-</html>
-                                                                                                                                                                                                                                                          //your JS code here. If required.
+                                                                                                                                                                                                                                               //your JS code here. If required.
 const nameInput = document.getElementById('name');
 const ageInput = document.getElementById('age');
 const submitBtn = document.getElementById('btn');
